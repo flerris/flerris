@@ -45,14 +45,25 @@ Argo CD · Helm · Vault · Loki · Zabbix · Proxmox · MikroTik · ClickHouse 
 
 ### `~/activity`
 
-<!-- contribution snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flerris/flerris/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flerris/flerris/output/github-contribution-grid-snake.svg">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/flerris/flerris/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/flerris/flerris/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="flerris contribution graph"
+      src="https://raw.githubusercontent.com/flerris/flerris/output/github-contribution-grid-snake.svg"
+    >
+  </picture>
+</p>
 
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/flerris/flerris/output/github-contribution-grid-snake.svg">
-</picture>
+
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=flerris&style=flat&label=visitors" />
@@ -61,6 +72,7 @@ Argo CD · Helm · Vault · Loki · Zabbix · Proxmox · MikroTik · ClickHouse 
 
 <sub>
 <br>
+  
 **works on my machine** · **blame DNS** · **kubectl get problems -A**
 
 </sub>
